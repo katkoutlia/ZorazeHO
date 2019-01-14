@@ -1,0 +1,12 @@
+set term eps
+set output "output.eps"
+set view map 
+set xlabel "X" 
+set ylabel "Y" 
+set cbrange [-6:30] 
+set cbtics 2 
+set cblabel "SINR (dB)" 
+set multiplot 
+unset key
+plot "Sn1_v2-SINR_ping.rem" using ($1):($2):(10*log10($4)) with image,"ueTrace.txt" using 1:2 title 'tracepoints' with lines 
+unset multiplot

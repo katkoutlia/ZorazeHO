@@ -1,0 +1,10 @@
+#!/bin/bash
+# Freq_reuse
+echo " This Script will take care of Run Value. Written By Zoraze Ali"
+for i in {1..10}; do
+
+echo " This is Run $i "
+
+./waf --run="scratch/Coveragehole_simulation_script --generateRem=0 --remRbId=15 --nUes=3 --macroEnbBandwidth=25 --useTcp=1 --targetCellId=2 --nRun=$i --simTime=100"
+
+done

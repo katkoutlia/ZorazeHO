@@ -1,0 +1,53 @@
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.277	-49.5133	350,750,1.5	2	4
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.285	-49.7268	350,750,1.5	2	6
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.465	-42.8689	350,750,1.5	2	7
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.277	-49.5133	350,750,1.5	2	4
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.285	-49.7268	350,750,1.5	2	6
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.465	-42.8689	350,750,1.5	2	7
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.287	-49.9437	350,750,1.5	2	9
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+37	-54.573	350,750,1.5	2	1
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.277	-49.5133	350,750,1.5	2	4
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.285	-49.7268	350,750,1.5	2	6
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.465	-42.8689	350,750,1.5	2	7
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue
+38.287	-49.9437	350,750,1.5	2	9
+% time	Angle(degree)	Ue1_Initial_position	targetCell_id	RunValue

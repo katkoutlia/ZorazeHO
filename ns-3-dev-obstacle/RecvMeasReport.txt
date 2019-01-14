@@ -1,0 +1,3 @@
+% time	Scellid	IMSI	RNTI	Srsrp	Srsrq	NiebCellids	NiebCellsRSRP	NiebCellsRSRQ	MeasId
+0.205929	1	1	1	60	33	2,3	38,38	0,0	2	
+0.445929	1	1	1	59	33	2,3	39,38	0,0	2	
